@@ -260,16 +260,13 @@
     &__general {
       display: flex;
       flex-wrap: wrap;
-
       justify-content: center;
     }
 
     .best__block {
       flex-wrap: wrap;
       margin-top: 100px;
-      padding: 0 50px;
-      text-align: center;
-
+      padding: 0 70px;
       &--img {
         width: 300px;
         margin-bottom: 30px;

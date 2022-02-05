@@ -161,8 +161,7 @@ input {
 #best .best .best__block {
   flex-wrap: wrap;
   margin-top: 100px;
-  padding: 0 50px;
-  text-align: center;
+  padding: 0 70px;
 }
 #best .best .best__block--img {
   width: 300px;

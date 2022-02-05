@@ -1,6 +1,41 @@
 @media (max-width: 1200px) {
+  #header {
+    .navbar {
 
+    }
+  }
+  #best {
+    .best {
+      .best__block {
+        flex-wrap: wrap;
+        margin-top: 100px;
+        padding: 0 50px;
+        text-align: center;
+      }
+      .best__general {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+      }
+
+
+
+      .best__btn {
+        margin-left: 450px;
+        padding: 15px 15px;
+      }
+    }
+  }
 }
+
+#footer {
+  .footer {
+    .footer__block--list {
+      margin-left: 200px;
+    }
+  }
+}
+
 
 @media (max-width: 1024px) {
   .container {
