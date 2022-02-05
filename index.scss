@@ -135,7 +135,7 @@
 
 #hero {
   background: $Cl;
-
+  width: 100%;
   .hero {
     display: flex;
     justify-content: center;
@@ -260,13 +260,14 @@
     &__general {
       display: flex;
       flex-wrap: wrap;
+
       justify-content: center;
     }
 
     .best__block {
       flex-wrap: wrap;
       margin-top: 100px;
-      padding: 0 55px;
+      padding: 0 50px;
       text-align: center;
 
       &--img {

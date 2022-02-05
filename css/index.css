@@ -65,6 +65,7 @@ input {
 
 #hero {
   background: #EEF0F4;
+  width: 100%;
 }
 #hero .hero {
   display: flex;
@@ -160,7 +161,7 @@ input {
 #best .best .best__block {
   flex-wrap: wrap;
   margin-top: 100px;
-  padding: 0 55px;
+  padding: 0 50px;
   text-align: center;
 }
 #best .best .best__block--img {

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4030dd8e-7c27-4d51-909b-eece95366bfb" name="Changes" comment="" />
+    <list default="true" id="4030dd8e-7c27-4d51-909b-eece95366bfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FITNESSO/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/css/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/css/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/css/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/css/media.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/css/media.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/media.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/media.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FITNESSO/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../FITNESSO/reset.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +27,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../FITNESSO" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +103,17 @@
       <workItem from="1644034259949" duration="39000" />
       <workItem from="1644034349430" duration="393000" />
       <workItem from="1644034751016" duration="3279000" />
-      <workItem from="1644044805047" duration="298000" />
+      <workItem from="1644044805047" duration="611000" />
+      <workItem from="1644046644103" duration="8000" />
+      <workItem from="1644046658461" duration="4000" />
+      <workItem from="1644046691472" duration="78000" />
+      <workItem from="1644047042582" duration="10000" />
+      <workItem from="1644047854803" duration="6000" />
+      <workItem from="1644047880583" duration="21000" />
+      <workItem from="1644047926527" duration="10000" />
+      <workItem from="1644048803374" duration="291000" />
+      <workItem from="1644053090732" duration="681000" />
+      <workItem from="1644053915962" duration="5557000" />
     </task>
     <servers />
   </component>

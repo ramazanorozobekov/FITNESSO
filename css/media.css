@@ -2,10 +2,115 @@
   .container {
     width: 90%;
   }
+
+  #best .best .best__btn {
+    margin-left: 350px;
+    padding: 15px 15px;
+  }
+
+  #footer .footer .footer__block .footer__block--list {
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    width: 90%;
+  }
 }
 @media (max-width: 768px) {
   #header .navbar__menu {
     display: none;
+  }
+
+  #hero .hero {
+    flex-direction: column;
+  }
+  #hero .hero .hero__theme {
+    margin-top: 235px;
+  }
+  #hero .hero .hero__text {
+    margin-top: -80px;
+  }
+  #hero .hero .hero__text--btn {
+    margin-bottom: 80px;
+  }
+
+  #hero .hero__them {
+    margin-top: -150px;
+  }
+  #hero .hero .hero__text--btn {
+    padding: 10px 15px;
+    margin-bottom: 150px;
+  }
+  #hero .hero .hero__text {
+    margin-top: 100px;
+  }
+  #hero .hero .hero__text--subtitle {
+    font-size: 55px;
+  }
+
+  #best .best .best__btn {
+    margin-left: 370px;
+    padding: 15px 15px;
+  }
+  #best .best__general__block {
+    padding: 0 50px;
+  }
+
+  #object .object {
+    margin-top: 100px;
+  }
+
+  #footer .footer .footer__block .footer__block--list {
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+
+  #best .best .best__btn {
+    margin-left: 250px;
+    padding: 15px 15px;
+  }
+
+  #as .as .as__block {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #as .as .as__block--item {
+    margin-top: 50px;
+  }
+  #as .as .as__btn {
+    margin: 25px 275px;
+    padding: 15px 20px;
+  }
+
+  #square .square .square__block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  #object .object {
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+
+  #short .short .short__images {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  #short .short .short__images--img {
+    margin-top: 50px;
+    width: 450px;
+  }
+
+  #footer .footer .footer__block .footer__block--list {
+    margin-left: 42px;
+    margin-bottom: 50px;
   }
 }
 
