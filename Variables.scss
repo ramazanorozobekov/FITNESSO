@@ -1,0 +1,59 @@
+$BgColor: #081158;
+$Cl: #EEF0F4;
+$BgCl: #ffffff;
+$ffPM: "Permanent Marker", sans-serif;
+$ffR: "Roboto", sans-serif;
+$ffRHD: "Red Hat Display", sans-serif;
+
+%btn {
+  font-family: $ffR;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background: $BgColor;
+  border-radius: 6px;
+  color: #ffffff;
+  border: none;
+  padding: 5px 10px;
+  text-align: center;
+}
+
+@mixin about_sry {
+  font-family: $ffRHD;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #DFDFDF;
+}
+
+@mixin topic {
+  font-family: $ffR;
+  font-size: 62px;
+  line-height: 70px;
+  color: $BgColor;
+}
+
+@mixin free {
+  font-family: $ffPM;
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #EC8675;
+}
+
+@mixin time {
+  font-family: $ffRHD;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #081158;
+}
+
+@mixin text {
+  font-family: $ffR;
+  font-size: 24px;
+  line-height: 27px;
+  letter-spacing: 0.5px;
+  color: #081158;
+}

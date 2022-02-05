@@ -1,0 +1,12 @@
+@media (max-width: 1024px) {
+  .container {
+    width: 90%;
+  }
+}
+@media (max-width: 768px) {
+  #header .navbar__menu {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=media.css.map */
